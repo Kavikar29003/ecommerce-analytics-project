@@ -1,0 +1,2 @@
+total_events,unique_users,unique_sessions,unique_products,viewed_products,cart_products,purchased_products,missing_category_events,missing_brand_events,first_event,last_event
+20692840,1639358,4535941,54571,53854,46157,40777,20339246,8757117,2019-10-01 00:00:00,2020-02-29 23:59:59
